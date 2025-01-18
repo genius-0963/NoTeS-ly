@@ -109,5 +109,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For support or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For support or feedback, please reach out to [your-email@example.com](mailto:iiitiansaurabh@gmail.com).
 

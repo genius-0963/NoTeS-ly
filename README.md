@@ -76,7 +76,7 @@ Ensure you have the following installed:
 
 ## Contributing
 
-Contributions are welcome! To contribute:
+Contributions are welcome! To contribute :
 
 1. Fork the repository.
 2. Create a new branch:
